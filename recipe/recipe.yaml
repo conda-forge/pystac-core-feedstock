@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.15.2"
+  version: "1.16.0"
 
 package:
   name: pystac-core
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-core/pystac_core-${{ version }}.tar.gz
-  sha256: 3720485dd06334e6536afe8f2b8bb0def5c65437170e0251b3417abb89d6b3f3
+  sha256: 98e58f7b4fb164251a8442a5cf2e04cb9859eaf00e203d2c1f333bd63082880e
 
 build:
   number: 0
